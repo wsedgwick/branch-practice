@@ -15,6 +15,12 @@ a <- 1
 ```
 
 
-Some other stuff!
+Deleted this line
+
+Adding some other lines
+```{r}
+b <- 2
+```
+
 
 
